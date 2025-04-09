@@ -1,0 +1,25 @@
+{
+    "body": [
+        {
+            "title": "Episode 1:",
+            "speakers": [
+                "deepak",
+                "rupak"
+            ],
+            "content": [
+                {
+                    "speaker": "rupak",
+                    "context": "Welcome to our show, everyone! Today, we have a couple of fantastic guests with us, Deepak and another expert who’ll join us shortly. Let’s dive into the world of digital marketing strategies and analytics! Deepak, why don’t you kick us off with a bit about yourself?"
+                },
+                {
+                    "speaker": "deepak",
+                    "context": "Thanks, Rupak! I’m thrilled to be here. I’ve spent over a decade in the marketing field, focusing on data analytics and consumer behavior. I love how numbers tell a story about what consumers really want. Outside of work, I’m a bit of a data nerd, so you might catch me analyzing trends in my favorite sports, too!"
+                },
+                {
+                    "speaker": "rupak",
+                    "context": "That’s awesome! And we’re excited to have you. So, as we jump into today’s topic, it’s all about understanding the purchase journey and what it means for digital marketing strategies. It’s fascinating how companies can customize their analytics to align with their unique goals and missions."
+                }
+            ]
+        }
+    ]
+}
